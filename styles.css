@@ -1,0 +1,102 @@
+* {
+    background-color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+    height: auto;  
+    display: flex;
+    align-items: center;
+}
+
+img {
+    height: 3%;
+    width: 3%;
+    vertical-align: middle;
+    background-color: white;
+}
+
+h1 {
+    vertical-align: middle;
+    background-color: white;
+}
+
+div {
+    background-color: white;
+    
+    height: 630px;
+    width: 590px;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+
+.taskb {
+   margin: 5px;
+   margin-top: 12px;
+   margin-left: 20px;
+   color: rgb(255, 255, 255);
+   background-color: blue;
+   border-radius: 8px;
+}
+
+.selectionb {
+   border-radius: 8px;
+ }
+
+ ul {
+     background-color: white;
+     list-style-type: none;
+ }
+
+ li {
+    background-color: white;
+    margin: 8px;
+ }
+
+ .editorial {
+    border-radius: 16px;
+    background-color: blue;
+    color: white;
+ }
+
+ .editorial2 {
+    border-radius: 16px;
+    background-color: rgb(243, 181, 46);
+    color: white;
+ }
+
+ .q1-goals {
+    border-radius: 16px;
+    background-color: rgb(132, 0, 255);
+    color: white;
+ }
+
+ .recruiting {
+    border-radius: 16px;
+    background-color: rgb(40, 156, 59);
+    color: white;
+ }
+
+ .mobile {
+    border-radius: 16px;
+    background-color: rgb(243, 181, 46);
+    color: white;
+ }
+
+ .website {
+    border-radius: 16px;
+    background-color: rgb(227, 46, 243);
+    color: white;
+ }
+
+ .sales {
+    border-radius: 16px;
+    background-color: rgb(183, 221, 43);
+    color: white;
+ }
+ 
+ 
+  
+
